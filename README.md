@@ -1,4 +1,4 @@
-# pagopa-ecommerce-watchdog-functions
+# pagopa-ecommerce-watchdog-functions [BETA]
 
 ## Description
 
